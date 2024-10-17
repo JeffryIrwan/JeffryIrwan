@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeffry Irwan</h1>
 <h3 align="center">I'm currently studying at Institut Teknologi Batam, in a Computer Engineering Degree.</h3>
 
-- 🔭 I’m currently working on **Tai Cheng Development**
+- 🔭 I’m currently working on ** Freelance Web Projects**
 
 - 🌱 I’m currently learning **Infinite Learning Advanced AI (IBM)**
 
